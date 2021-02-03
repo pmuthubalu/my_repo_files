@@ -1,4 +1,9 @@
 # my_repo_files
-print 
-print:
-muthu
+pull
+push
+clone
+commit
+add
+branch
+status
+worktree(creatig branch)
